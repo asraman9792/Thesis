@@ -1,6 +1,5 @@
 """
 This module generates example IoT networks based on topology type and vulnerabilities.
-Modified by LE Duy Tan 1st March 2021
 """
 
 from Network import *
