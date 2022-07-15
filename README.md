@@ -17,12 +17,12 @@ For  installation  GridAttack, follow the steps below to set up all the addition
 * sudo apt-get install python3-tk
 * Install the pip3 packet manager:
 * sudo apt install python3-pip
-* Install other packages required by GridAttackAnalyzer as specified in the file requirements.txt included with the distribution by running the following command from the GridAttack/ directory:
+* Install other packages required by GridAttackAnalyzer as specified in the file requirements.txt included with the distribution by running the following command from the Thesis/ directory:
 * sudo -H pip3 install -r requirements.txt
 
 
 # Quick Start
-Use a terminal window to navigate to the GridAttack directory, then start the GUI by running the command below:
+Use a terminal window to navigate to the Thesis directory, then start the GUI by running the command below:
 
 python3 GridAttack.py
 GridAttack GUI
